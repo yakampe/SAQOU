@@ -7,6 +7,7 @@ Dependencies:
 
 To install:
  > pip install pdfminer.six
+ 
  > pip install easygui
   
 To use:
