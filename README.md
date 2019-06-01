@@ -2,12 +2,12 @@
 Small python script to go through OU pdf's and get all self assessment questions and respective answers
 
 Dependencies:
-  easygui
-  pdfminer
+ > easygui
+ > pdfminer
 
 To install:
-  pip install pdfminer.six
-  pip install easygui
+ > pip install pdfminer.six
+ > pip install easygui
   
 To use:
  1. Launch the script
