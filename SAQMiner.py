@@ -101,6 +101,7 @@ for page in PDFPage.create_pages(document):
                         #Look for start of the question
                         try:
                             if "SAQ " in lt_obj.get_text():
+                                question = ""
                                 questionNumber += 1
                                 printQuestion = True
 
